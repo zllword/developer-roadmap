@@ -2,7 +2,7 @@
 
 2018 年，如何成为一名优秀的开发者？
 
-如果你认为这些仍需完善，请给我们提供 [反馈](https://github.com/oss-labs/developer-roadmap/issues) 。
+如果你认为这些仍需完善，请给我们提供 [反馈](https://github.com/oss-labs/developer-roadmap/issues/new) 。
 
 ***
 
