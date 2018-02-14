@@ -1,10 +1,10 @@
-![Web Developer Roadmap](https://i.imgur.com/oxsayps.png)
+## Web 前端开发路线图
 
-> Roadmap to becoming a web developer in 2018
+2018 年，如何成为一名优秀的 Web 前端开发者？
 
 Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective.
 
-If you think that these can be improved in anyway, please do suggest.
+如果你认为这些仍然可以改进，请给我们提供建议或参考。
 
 ***
 
@@ -13,21 +13,21 @@ If you think that these can be improved in anyway, please do suggest.
 ***
 
 
-## 🚀 Introduction
+## 🚀 准备开始
 
-![](https://i.imgur.com/OZUOUtI.png)
+![](project-files/intro-map.png)
 
-## 🎨 Front-end Roadmap
+## 🎨 前端技术
 
 ![](https://i.imgur.com/WrfLESm.png)
 
-## 👽 Back-end Roadmap
+## 👽 后端技术
 
 For the backend, personally I would prefer Node.js and PHP 7 for the full time. Plus, I have been experimenting lately with Go and I quite like it. Apart from these, if I have to choose another one, I would go for Ruby. However this is just my personal preference, you can choose any of the shown languages and you will be good.
 
 ![](https://i.imgur.com/Ihg4YAb.png)
 
-## 👷 DevOps Roadmap
+## 👷 DevOps
 
 ![](https://i.imgur.com/wpj5pqk.png)
 
