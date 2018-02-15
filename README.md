@@ -27,7 +27,7 @@
 
 ## 👷 DevOps
 
-![](https://i.imgur.com/wpj5pqk.png)
+![](project-files/devops-map.png)
 
 ## 许可协议
 
